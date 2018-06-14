@@ -1,0 +1,49 @@
+Name : Jenil Bimal Desai
+UTA ID: 1001520245
+
+IDE USED: Pycharm Community Edition 2017 3.3
+LANGUAGE USED: Python 3.6
+OPEATING SYSTEM: Windows 10
+
+###########################        Files         ########################################
+1) Server.py
+2) Client.py
+3) Helper.py
+4) Client_helper.py
+5) log.txt
+
+########################### How to run the code. #########################################
+
+1) To run a code first download Desai_jbd0245.zip and extract it.
+2) Install pycharm from below link.
+   CLICK HERE TO DOWNLOAD: https://www.jetbrains.com/pycharm/download/ 
+3) Now download python from https://www.python.org/ and open environment and set path of python in  windows.
+4) Open pycharm and go to settings and search for "python interpretor".
+5) Click on " + " symbol and create a virtual environment.
+6) Now open downloaded file(Desai_jbd0245) in pycharm.
+7) Now open Server.py and go to run and click Run'Server'.
+8) After that you will see message on console that server in running.
+9) Now open Client.py and go to run and click Run'Client'. 
+10) You do not need to explicitly give ip and port to server or host. It has already been given.
+11) After opening Client.py run that file again and again to open more Client window.
+12) log.txt file keeps track of the log so whenever server crashes it loads up past messages.
+13) Install json , time , threading , socket before running the code.
+
+######################### Citations #######################################
+
+https://www.geeksforgeeks.org/simple-chat-room-using-python/
+https://medium.com/swlh/lets-write-a-chat-app-in-python-f6783a9ac170
+https://stackoverflow.com/questions/21058935/python-json-loads-shows-valueerror-extra-data
+https://stackoverflow.com/questions/30921399/datetime-fromtimestamp-vs-datetime-utcfromtimestamp-which-one-is-safer-to-use
+https://regex101.com/
+https://stackoverflow.com/questions/41761084/attributeerror-type-object-socket-has-no-attribute-socket
+http://www.bogotobogo.com/python/python_network_programming_server_client_file_transfer.php
+http://effbot.org/tkinterbook/tkinter-events-and-bindings.htm
+https://www.daniweb.com/programming/software-development/threads/481619/server-split-message-and-save-data-on-a-text-file
+http://codingnights.com/coding-fully-tested-python-chat-server-using-sockets-part-1/
+https://stackoverflow.com/questions/18685184/pep8-e501-line-too-long-error
+https://stackoverflow.com/questions/17501131/sending-txt-file-to-server-from-client-using-python-sockets
+https://stackoverflow.com/questions/7408647/convert-dynamic-python-object-to-json
+https://stackoverflow.com/questions/37016946/remove-b-character-do-in-front-of-a-string-literal-in-python-3
+https://stackoverflow.com/questions/28271051/datetime-to-date-format-in-python
+https://stackoverflow.com/questions/12362542/python-server-only-one-usage-of-each-socket-address-is-normally-permitted
